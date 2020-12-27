@@ -1,0 +1,2 @@
+# awesome-jp
+Treasure chest.
